@@ -26,7 +26,7 @@ You agree not to use the is-a.dev service for:
 - Engaging in activities that violate local, national, or international laws
 - Any commercial purposes, including but not limited to advertising, selling products, or hosting e-commerce platforms
 - Websites containing adult/restricted content
-- Mass unsolicitied emailing
+- Mass unsolicited emailing
 - Cryptocurrency mining sites or tools
 - Phishing or fraudulent websites
 - Open proxy websites or VPN services
@@ -45,7 +45,7 @@ Violation of these terms may result in the immediate termination of your subdoma
 We reserve the right to suspend, terminate, or revoke your subdomain at any time, for any reason, including but not limited to violations of these Terms, operational considerations, or at our sole discretion.
 
 ## 7. Privacy
-For privacy-related inquiries, please contact us at privacy@is-a.dev. We are not responsible for any data or privacy breaches resulting from the use of our service.
+For privacy-related inquiries, please contact us at support@is-a.dev. We are not responsible for any data or privacy breaches resulting from the use of our service.
 
 ## 8. Disclaimer of Warranties
 The is-a.dev service is provided "as-is" and "as available." We make no warranties, expressed or implied, regarding the service's functionality, reliability, or suitability for any particular purpose.
